@@ -11,4 +11,4 @@ This repository is homework from **Data Mining and Social Network Analysis, 2022
 |---------|-------------|
 |[Apriori Algorithm](/Apriori-algorithm/)| Association rule mining : Apriori algorithm |
 |Decision Tree | Classification : Decision Tree |
-|DBSCAN | Clustering : DBSCAN algorithm |
+|[DBSCAN](/DBSCAN/) | Clustering : DBSCAN algorithm |
