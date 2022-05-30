@@ -10,5 +10,5 @@ This repository is homework from [**Data Mining and Social Network Analysis, 202
 | Folders | Description |
 |---------|-------------|
 |[Apriori Algorithm](/Apriori-algorithm/)| Association rule mining : Apriori algorithm |
-|[Decision Tree](/Decision Tree) | Classification : Decision Tree |
+|[Decision Tree](/Decision%20Tree) | Classification : Decision Tree |
 |[DBSCAN](/DBSCAN/) | Clustering : DBSCAN algorithm |
