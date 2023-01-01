@@ -1,5 +1,5 @@
 # Data-Mining
-This repository is homework from [**Data Mining and Social Network Analysis, 2022 Spring**](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0110&sem=2&co_no=Q370100&class_code=) in NCKU EE.
+This repository is homework from Data Mining and Social Network Analysis, 2022 Spring.
 
 # Author
 | github account |   name   |
